@@ -2,11 +2,11 @@
 Penjelasan instalasi dan testing cassandra di Laptop untuk pemula.
 
 Cassandra QuickStart ini dibuat berdasarkan step yang terdapat pada : https://cassandra.apache.org/_/quickstart.html
-Namun untuk mempermudah dalam instalasi Cassandra dan mencobanya, saya buatkan lebih detail dari cara mencoba quickstart pada link tersebut.
+Namun untuk mempermudah dalam instalasi Cassandra dan mencobanya, telah dibuat quickstart dan dibuat lebih informatif dengan bahasa indonesia.
 
 Prerequisites pada Windows : 
-Ada beberapa step yang perlu disiapkan sebelum melakukan implementasi: 
-Untuk Windows 
+<br>
+Ada beberapa step yang perlu disiapkan sebelum melakukan implementasi:
 <li>Diperlukan Docker Desktop dan WLS2. Docker harus "running" pada Desktop
 <li>Virtualization sudah "enable" pada BIOS 
 <li> Windows Feature :
