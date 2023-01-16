@@ -1,7 +1,6 @@
 # Cassandra-Quickstart
 Penjelasan instalasi dan testing cassandra di Laptop untuk pemula.
 
-Background
 Cassandra QuickStart ini dibuat berdasarkan step yang terdapat pada : https://cassandra.apache.org/_/quickstart.html
 Namun untuk mempermudah dalam instalasi Cassandra dan mencobanya, saya buatkan lebih detail dari cara mencoba quickstart pada link tersebut.
 
