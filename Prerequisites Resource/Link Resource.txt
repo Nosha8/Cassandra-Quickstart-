@@ -1,1 +1,8 @@
+Step Pertama :
+1. Download Docker Desktop Pada Link Berikut : https://docs.docker.com/desktop/install/windows-install/
+2. Download WSL version 2 : https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi 
+How to Install WSL Ver 2 : https://www.youtube.com/watch?v=n-J9438Mv-s 
+
+
+
 Link Step by Step Example : https://www.youtube.com/watch?v=HEG4cgTLJrA
